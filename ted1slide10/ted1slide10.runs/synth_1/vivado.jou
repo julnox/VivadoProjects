@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jul 28 14:21:42 2022
+# Process ID: 6312
+# Current directory: C:/Users/Julio/VivadoProjects/ted1slide10/ted1slide10.runs/synth_1
+# Command line: vivado.exe -log ex1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ex1.tcl
+# Log file: C:/Users/Julio/VivadoProjects/ted1slide10/ted1slide10.runs/synth_1/ex1.vds
+# Journal file: C:/Users/Julio/VivadoProjects/ted1slide10/ted1slide10.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ex1.tcl -notrace
